@@ -1,0 +1,1 @@
+Projeto desenvolvido pela equipe de Breno de Moura Batista, Felipe Spinola Farias, Gustavo Oliveira Ramos Cruz, Leonardo Andrade Gomes Alves, Lucas Breda Lima Mascarenhas.
