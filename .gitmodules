@@ -1,0 +1,15 @@
+[submodule "AED/Repo-AED/Cinepolis"]
+	path = AED/Repo-AED/Cinepolis
+	url = https://github.com/brazatec/Poker-AED-Cinepolis.git
+[submodule "AED/Repo-AED/Filhos_do_Limoeiro"]
+	path = AED/Repo-AED/Filhos_do_Limoeiro
+	url = https://github.com/MatheusSena02/Poker_Filhos_do_Limoeiro.git
+[submodule "AED/Repo-AED/Nata_Reis"]
+	path = AED/Repo-AED/Nata_Reis
+	url = https://github.com/NeyzinGameplays/AED.git
+[submodule "AED/Repo-AED/Potech"]
+	path = AED/Repo-AED/Potech
+	url = https://github.com/brazatec/Poker-AED-Potech.git
+[submodule "AED/Repo-AED/White_Castle"]
+	path = AED/Repo-AED/White_Castle
+	url = https://github.com/brazatec/Poker-AED-White-Castle.git
